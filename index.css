@@ -25,7 +25,7 @@ h3 {
 }
 
 .upper-part {
-    font-family: ChivoMono;
+    font-family: ChivoMono, sans-serif;
 }
 
 .score {
