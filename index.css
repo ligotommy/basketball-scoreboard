@@ -3,6 +3,11 @@
   src: url(CursedTimerULiL.ttf);
 }
 
+@font-face {
+  font-family: ChivoMono;
+  src: url(ChivoMono-bold.ttf);
+}
+
 body {
     margin: 0;
     text-align: center;
@@ -17,6 +22,7 @@ h3 {
     margin-top: 0px;
     padding-bottom: 0;
     margin-bottom: 0;
+    font-family: ChivoMono;
 }
 
 .score {
